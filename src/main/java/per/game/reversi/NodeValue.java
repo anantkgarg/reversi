@@ -1,4 +1,4 @@
-package per.test;
+package per.game.reversi;
 
 public enum NodeValue {
 	X("X"),

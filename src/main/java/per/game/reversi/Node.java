@@ -1,4 +1,4 @@
-package per.test;
+package per.game.reversi;
 
 public class Node {
 	private NodeValue value;

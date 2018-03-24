@@ -1,10 +1,14 @@
-package per.test;
+package per.game.reversi;
 
 import static org.junit.Assert.*;
 
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
+
+import per.game.reversi.GameBoard;
+import per.game.reversi.Node;
+import per.game.reversi.NodeValue;
 
 public class GameBoardTest {
 
